@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Hero Journey × Astrology: Twelve Houses as an Archetypal Path"
+authors:
+  - family-names: Liu
+    given-names: Echo
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: "2025-10-29"
+version: "0.1.0"
+keywords:
+  - astrology
+  - twelve houses
+  - hero's journey
+  - archetypes
+license: "MIT"
+repository-code: "https://github.com/YOUR_NAME/hero-journey-astrology"

@@ -1,0 +1,17 @@
+site_name: Hero Journey × Astrology
+site_description: Twelve Houses as an Archetypal Path
+site_url: https://YOUR_NAME.github.io/hero-journey-astrology
+
+nav:
+  - Home: index.md
+  - Papers: papers.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true
+  - admonition
+  - tables
